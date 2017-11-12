@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "directory", "directory\directory.csproj", "{28D95D17-B4DA-4125-8608-AE29297DFE0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "directoryApi", "directory\directoryApi.csproj", "{28D95D17-B4DA-4125-8608-AE29297DFE0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
